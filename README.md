@@ -1,5 +1,5 @@
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=JMsuper" height="170">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdals485">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=JMsuper" height="175">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdals485" >
 
 <!--
 **JMsuper/JMsuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
